@@ -1,2 +1,2 @@
 # Ldjango
- 1st attempt to learn django
+ 1st attempt to learn django 
